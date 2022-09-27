@@ -1,2 +1,2 @@
-# review-projects-from-trails
-this is for pull request review 
+# Review-of-past-projects
+This repo is made for reviewing of my Past Projects
